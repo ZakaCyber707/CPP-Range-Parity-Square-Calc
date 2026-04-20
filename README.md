@@ -28,4 +28,4 @@ This project is optimized for and tested on the following Integrated Development
 2. **Run:** `./RangeCalc`
 
 ---
-**Author:** Muhammad Zaka | [cite_start]Cybersecurity Analyst & Tech Educator 
+**Author:** Muhammad Zaka | Cybersecurity Analyst & Tech Educator 
