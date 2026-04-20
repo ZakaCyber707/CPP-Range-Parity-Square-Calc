@@ -10,8 +10,8 @@
 This program analyzes every integer within a user-specified range (lower limit to upper limit) to determine its parity and calculate its square:
 
 - **Parity Detection:** Utilizes the modulo operator (`% 2`) to distinguish between even and odd integers.
-- [cite_start]**Iterative Processing:** Employs a `while` loop to traverse the range, ensuring every number is processed exactly once[cite: 17].
-- [cite_start]**Mathematical Computation:** Performs real-time squaring of each identified number to demonstrate algebraic processing within loops[cite: 17].
+- **Iterative Processing:** Employs a `while` loop to traverse the range, ensuring every number is processed exactly once
+- **Mathematical Computation:** Performs real-time squaring of each identified number to demonstrate algebraic processing within loops.
 
 💻 Development Environment
 This project is optimized for and tested on the following Integrated Development Environments (IDEs):
@@ -19,13 +19,13 @@ This project is optimized for and tested on the following Integrated Development
 - **Dev-C++:** Verified for quick console execution using the TDM-GCC compiler.
 
 🛠️ Features
-- **Dynamic Boundary Control:** Captures `lowerLimit` and `upperLimit` from the user to define the execution scope[cite: 17].
-- **Sequential Incrementing:** Ensures consistent loop progression through the `lowerLimit++` pattern[cite: 17].
-- **Formatted Console Output:** Provides a clear, labeled breakdown of each number's status and its square[cite: 17].
+- **Dynamic Boundary Control:** Captures `lowerLimit` and `upperLimit` from the user to define the execution scope.
+- **Sequential Incrementing:** Ensures consistent loop progression through the `lowerLimit++` pattern.
+- **Formatted Console Output:** Provides a clear, labeled breakdown of each number's status and its square.
 
 🚀 Execution Guide
 1. **Compile:** `g++ range_parity_calc.cpp -o RangeCalc`
 2. **Run:** `./RangeCalc`
 
 ---
-**Author:** Muhammad Zaka | [cite_start]Cybersecurity Analyst & Tech Educator [cite: 48, 49]
+**Author:** Muhammad Zaka | [cite_start]Cybersecurity Analyst & Tech Educator 
