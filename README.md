@@ -2,8 +2,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Logic-Mathematical%20Parity-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IDE-Visual%20Studio%20%7C%20Dev--C%2B%2B-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Logic-Algorithm%20Design-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Difficulty-Beginner-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 📊 Logic Overview
